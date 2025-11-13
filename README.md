@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Z1NX</h1>
+<h3 align="center">💻 Full-Stack Developer in Progress | Linux Enthusiast 🐧</h3>
 
-<!--
-**Z1NX-34/Z1NX-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My main goal is to become a fullstack webdev. I'm still at the learning process but i will share my progress as I go on and improve. Though I'm currently focusing on the front-end I will move to backend and I go.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Tech
+<div>
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</div>
+<div>
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</div>
+<div>
+  <h3>Miscellaneous</h3>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,figma," />
+</div>
+  
+## 🧠 A Bit About Me
+- 🎮 Love anime and games.  
+- 🐧 Linux user (Arch BTW 😎).  
+- 🎓 Studying Diploma in Computer Science.  
+- 🐱 Love cats (I own two).
