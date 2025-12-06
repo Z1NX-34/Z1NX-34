@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Z1NX</h1>
-<h3 align="center">💻 Full-Stack Developer in Progress | Linux Enthusiast 🐧</h3>
+<h3 align="center">💻 Full-Stack Developer | Linux Enthusiast 🐧</h3>
 
  My main goal is to become a fullstack webdev. I'm still at the learning process but i will share my progress as I go on and improve. Though I'm currently focusing on the front-end I will move to backend and I go.
 
